@@ -102,7 +102,7 @@ fullscreen = 0
 android.permissions = INTERNET,ACCESS_NETWORK_STATE
 # (list) features (adds uses-feature -tags to manifest)
 #android.features = android.hardware.usb.host
-android.build_tools = 37.0.0
+android.build_tools = 33.0.2
 # (int) Target Android API, should be as high as possible.
 android.api = 33
 
